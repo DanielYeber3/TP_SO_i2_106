@@ -1,0 +1,5 @@
+Respuestas:
+
+a.  Actualizo mi repositorio a partir del comando git pull junto con el link del repositorio al cual le hice fork.
+
+b.  Si puede utilizando el comando git pull, de la misma manera de como actualiza desde el repositorio al cual le hizo el fork.
