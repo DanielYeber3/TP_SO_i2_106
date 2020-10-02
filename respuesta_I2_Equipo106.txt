@@ -3,3 +3,7 @@ Respuestas:
 a.  Actualizo mi repositorio a partir del comando git pull junto con el link del repositorio al cual le hice fork.
 
 b.  Si puede utilizando el comando git pull, de la misma manera de como actualiza desde el repositorio al cual le hizo el fork.
+
+c.Si GAMMA pudo actualizar su fork a partir del comando git pull y el link del repositorio de alfa.
+
+d. No, no se pierden sino que aparecen actualizados junto con las respuestas de GAMMA.
