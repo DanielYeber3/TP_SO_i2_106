@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Daniel Yeber
 
 192.168.0.119
 
 10:55:44,59
+=======
+Gamma: Felipe Bustos Gil, IP:192.168.56.1, hora:10:50:23
+>>>>>>> de16f6bae8c18381c5e3d8cb048270f796662d11
